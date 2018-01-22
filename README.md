@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jon
 
 jon is a chat bot built on the [Hubot][hubot] framework. It was
@@ -212,3 +213,7 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
+=======
+# hubot
+hubot test
+>>>>>>> 8ca4005d03dd9a1042f583c56de5e4474ec62918
