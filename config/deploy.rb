@@ -2,13 +2,13 @@
 lock "~> 3.10.1"
 
 set :application, "hubot"
-set :repo_url, "git@example.com:me/my_repo.git"
+set :repo_url, "git@github.com:ujwaldhakal/hubot.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
 # Default deploy_to directory is /var/www/my_app_name
-# set :deploy_to, "/var/www/my_app_name"
+ set :deploy_to, "/var/www/hubot"
 
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
